@@ -4,6 +4,11 @@ In the project directory, you can run following commands to test its working :
 
 `
 npm install
+`
+
+then run
+
+`
 npm start
 `
 
